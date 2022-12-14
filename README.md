@@ -1,4 +1,4 @@
-# sortMethod Numbera
+# sortMethod Numbers
 En esta funcion solamente estoy probando la funcion llamada sort que sirve para ordenar los elementos de un array.
 
 El metodo sort() lo que hace es tomar el array, ordenarlo y retornar un array modificado.
